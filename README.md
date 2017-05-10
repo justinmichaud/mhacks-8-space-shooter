@@ -2,13 +2,13 @@
 This is my submission for MHACKS 8. I built a simple VR shooter with motion tracking. I am not even close to being able to afford a real VR setup, so I wanted to experience a tiny bit of the new VR tech.
 
 Here is the game:
-![phone](https://raw.githubusercontent.com/jtjj222/mhacks-8-space-shooter/master/pictures/phone.png)
+![phone](https://raw.githubusercontent.com/justinmichaud/mhacks-8-space-shooter/master/pictures/phone.png)
 
 Here is the desktop portion:
-![desktop](https://raw.githubusercontent.com/jtjj222/mhacks-8-space-shooter/master/pictures/desktop.png)
+![desktop](https://raw.githubusercontent.com/justinmichaud/mhacks-8-space-shooter/master/pictures/desktop.png)
 
 When you move outside of the field of view of the head tracker, the game is paused and you are shown the camera feed to re-orient yourself:
-![camera](https://raw.githubusercontent.com/jtjj222/mhacks-8-space-shooter/master/pictures/camera.png)
+![camera](https://raw.githubusercontent.com/justinmichaud/mhacks-8-space-shooter/master/pictures/camera.png)
 
 ## How to Play##
 Download the source code and open the gradle project in android studio. Tether to your phone using bluetooth or wifi, and make sure that you can ping/contact your phone. I used a static ip on a different subnet mask from the wifi so that I could keep my wifi connection on my laptop, as well as a connection to my phone, as shown in the picture above.
